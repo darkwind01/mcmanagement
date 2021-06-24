@@ -9,10 +9,6 @@
 
 <div align=center>
 
-  <a href="https://discord.gg/z553PjxyUM">
-    <img src="https://discordapp.com/api/guilds/857648533201223750/widget.png?style=shield" alt="shield.png">
-  </a>
-
   <a href="https://github.com/discordjs">
     <img src="https://img.shields.io/badge/discord.js-v12.3.1-blue.svg?logo=npm" alt="shield.png">
   </a>
