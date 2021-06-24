@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/discord.js-v12.3.1-blue.svg?logo=npm" alt="shield.png">
   </a>
 
-  <a href="https://github.com/sabattle/CalypsoBot/blob/develop/LICENSE">
+  <a href="https://github.com/darkwind01/mcmanagement/blob/develop/LICENSE">
     <img src="https://img.shields.io/badge/license-GNU%20GPL%20v3-green" alt="shield.png">
   </a>
 
