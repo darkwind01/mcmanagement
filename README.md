@@ -94,7 +94,7 @@ Visit the Discord [developer portal](https://discordapp.com/developers/applicati
 
 Once done, feel free to launch bot using the command `node index.js`.
 
-![Alt Text](https://i.imgur.com/SLJCN6y.gif)
+![Alt Text](https://i.imgur.com/x7SBeXo.gif)
 
 ## To-Do
 
