@@ -77,9 +77,9 @@ to snag all of the dependencies. Of course, you need [node](https://nodejs.org/e
 ```
 client.config = {
   prefix: "Your prefix",
-  token: "Your discord dev token",
+  token: "Your discord token",
   server_ip: "Server ip",
-  server_port: "Server port",
+  server_port: "Server rcon port",
   server_pw: "Server rcon password"
 } 
 ```
