@@ -8,7 +8,7 @@
  *
 */
 
-include_once("rcon.php");  
+include_once("rcon_class.php");  
 $command    = $_GET['command'];
 $server_ip    = $_GET['server_ip'];
 $server_port    = $_GET['server_port'];
