@@ -100,12 +100,11 @@ Once done, feel free to launch bot using the command `node index.js`.
 
 ## To-Do
 
-Calypso is in a continuous state of development. New features/updates may come at any time. Some pending ideas are:
+McManagement is in a continuous state of development. New features/updates may come at any time for paid version. Some pending ideas are:
 
-  * Music
-  * Automod
-  * Stream alerts
-  * Custom tag/reaction system
+  * Check host
+  * check online members
+  * and more.
 
 ## License
 
