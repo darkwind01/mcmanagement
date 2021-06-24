@@ -91,8 +91,8 @@ rcon.password= to rcon.password=my_rcon_password
 rcon.port=25575 to rcon.port=your_port (you can leave default)
 ```
 (API PHP)
-You need a webhost to use api or you can use on localhost using [XAMPP](https://www.apachefriends.org/download.html). When you have a webhost you can drag the 'api.php' and 
-'rcon_class.php' into root folder and use.
+You need a webhost to use api or you can use on localhost using [XAMPP](https://www.apachefriends.org/download.html). When you have a webhost you can drag the `api.php` and 
+`rcon_class.php` into root folder and use.
 
 Visit the Discord [developer portal](https://discordapp.com/developers/applications/) to create an app and use the client token you are given for the `token` option.
 
