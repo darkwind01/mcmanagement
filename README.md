@@ -114,6 +114,6 @@ Released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) li
 
 ## Credits
 
-* **Chris Churchwell** - *RCON class*
+* **Chris Churchwell** - *RCON class* - [github](https://github.com/thedudeguy)
 * **DarkWind#6969** - *api and d.js bot* - [github](https://github.com/darkwind01)
 * **xIonut#9999** - *Beta tester* - [github](https://github.com/xIonut)
