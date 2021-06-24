@@ -14,7 +14,7 @@ client.config = {
   prefix: "your_prefix",
   token: "your_bot_token",
   server_ip: "your_server_ip",
-  server_port: "your_server_port",
+  server_port: "your_server_rcon_port",
   server_pw: "your_server_rcon_password"
 }  
 
